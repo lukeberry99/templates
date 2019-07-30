@@ -30,7 +30,7 @@
           "target": "eula.txt"
         },
         {
-          "source": "forge-*.jar",
+          "source": "forge-*-universal.jar",
           "target": "server.jar",
           "type": "move"
         }
